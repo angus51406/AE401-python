@@ -5,4 +5,4 @@ if (ms>90 and es>90):
 elif(ms<60 and es<60):
     print('受罰')
 elif(ms<60 or es<60):
-    print('在加油')
+    print('再加油')
